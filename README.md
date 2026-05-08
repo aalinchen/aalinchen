@@ -23,7 +23,6 @@ class Lini:
     role        = "Student & Aspiring Developer"
     learning    = ["Algorithms", "System Design", "Open Source"]
     goals       = ["Build something impactful", "Contribute to open source"]
-    fun_fact    = "I debug with console.log and I'm not ashamed 🐛"
     hobbies     = ["Coding", "Problem Solving", "Exploring new tech"]
 ```
 
@@ -33,15 +32,24 @@ class Lini:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,cpp,html,css,js&theme=dark&perline=6)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" style="padding: 16px;">
+      <code>Languages</code><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark" />
+    </td>
+    <td align="center" style="padding: 16px;">
+      <code>Front-end</code><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+    </td>
+    <td align="center" style="padding: 16px;">
+      <code>Tools</code><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-| Category | Technologies |
-|:---:|:---:|
-| 💻 Languages | Python · C# · C++ · JavaScript |
-| 🌐 Web | HTML · CSS |
-| 🔧 Tools | Git · GitHub · VS Code |
 
 ---
 
