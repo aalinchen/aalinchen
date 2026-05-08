@@ -37,15 +37,15 @@ class Lini:
   <tr>
     <td align="center" style="padding: 16px;">
       <code>Languages</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark&perline=3" />
     </td>
     <td align="center" style="padding: 16px;">
       <code>Front-end</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
     </td>
     <td align="center" style="padding: 16px;">
       <code>Tools</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
     </td>
   </tr>
 </table>
