@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,50:ff6a00,100:ff0099&height=200&section=header&text=Hey%2C%20I'm%20Alin!%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,50:ff6a00,100:ff0099&height=200&section=header&text=Hey%2C%20I'm%20Lini!%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+cool+stuff+one+line+at+a+time+%F0%9F%94%A5;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collabs+%26+new+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
@@ -19,7 +19,7 @@
 ## 🙋 About Me
 
 ```python
-class Alin:
+class Lini:
     role        = "Student & Aspiring Developer"
     learning    = ["Algorithms", "System Design", "Open Source"]
     goals       = ["Build something impactful", "Contribute to open source"]
