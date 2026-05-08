@@ -23,7 +23,6 @@ class Lini:
     role        = "Student & Aspiring Developer"
     learning    = ["Algorithms", "System Design", "Open Source"]
     goals       = ["Build something impactful", "Contribute to open source"]
-    fun_fact    = "I debug with console.log and I'm not ashamed 🐛"
     hobbies     = ["Coding", "Problem Solving", "Exploring new tech"]
 ```
 
