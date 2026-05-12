@@ -57,13 +57,6 @@ class Lini:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aalinchen&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&icon_color=7dbcb8&text_color=d4c5a9&ring_color=7a5c2e" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalinchen&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&text_color=d4c5a9" height="165"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=aalinchen&hide_border=true&background=0D0D0D&ring=C9A96E&fire=7DBCB8&currStreakLabel=C9A96E&sideLabels=D4C5A9&currStreakNum=D4C5A9&sideNums=D4C5A9&dates=666655)](https://git.io/streak-stats)
 
 </div>
