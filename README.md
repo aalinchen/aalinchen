@@ -1,15 +1,15 @@
 <div align="center">
 <!-- Animated header banner — pink gradient: deep magenta → hot pink → soft rose -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0a2e,50:c2185b,100:ff9ecb&height=200&section=header&text=Hey%2C%20I'm%20Lini!%20💖&fontSize=50&fontColor=ffe1f0&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18&descColor=ff9ecb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:ff2fa3,100:ff8fd6&height=200&section=header&text=Hey%2C%20I'm%20Lini!%20💖&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18&descColor=ffe1f5" width="100%"/>
 
 <!-- Typing animation — pink accent -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF4FA3&center=true&vCenter=true&width=600&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+cool+stuff+one+line+at+a+time+%F0%9F%92%96;Always+learning%2C+always+growing+%F0%9F%8C%B8;Open+to+collabs+%26+new+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0090&center=true&vCenter=true&width=600&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+cool+stuff+one+line+at+a+time+%F0%9F%92%96;Always+learning%2C+always+growing+%F0%9F%8C%B8;Open+to+collabs+%26+new+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social / profile badges -->
-[![GitHub followers](https://img.shields.io/github/followers/aalinchen?style=for-the-badge&logo=github&color=ff4fa3&labelColor=1a0d14)](https://github.com/aalinchen)
-[![Profile views](https://komarev.com/ghpvc/?username=aalinchen&style=for-the-badge&color=c2185b&label=PROFILE+VIEWS)](https://github.com/aalinchen)
+[![GitHub followers](https://img.shields.io/github/followers/aalinchen?style=for-the-badge&logo=github&color=ff0090&labelColor=2d0018)](https://github.com/aalinchen)
+[![Profile views](https://komarev.com/ghpvc/?username=aalinchen&style=for-the-badge&color=ff2fa3&label=PROFILE+VIEWS)](https://github.com/aalinchen)
 
 </div>
 
@@ -50,16 +50,6 @@ class Lini:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aalinchen&hide_border=true&background=1A0D14&ring=FF4FA3&fire=FF9ECB&currStreakLabel=FF4FA3&sideLabels=FFD1E8&currStreakNum=FFD1E8&sideNums=FFD1E8&dates=cc7aa3)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🧠 Data structures & algorithms
@@ -73,7 +63,7 @@ class Lini:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-aalinchen-1a0d14?style=for-the-badge&logo=github&logoColor=ff9ecb)](https://github.com/aalinchen)
+[![GitHub](https://img.shields.io/badge/GitHub-aalinchen-ff0090?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/aalinchen)
 
 </div>
 
@@ -82,7 +72,7 @@ class Lini:
 <div align="center">
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecb,50:c2185b,100:3d0a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fd6,50:ff2fa3,100:ff007f&height=100&section=footer" width="100%"/>
 
 *"The best way to learn is to build."* 💗
 
