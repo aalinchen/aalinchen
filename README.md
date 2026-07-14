@@ -1,79 +1,102 @@
 <div align="center">
-<!-- Animated header banner — pink gradient: deep magenta → hot pink → soft rose -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:ff2fa3,100:ff8fd6&height=200&section=header&text=Hey%2C%20I'm%20Lini!%20💖&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=55&descSize=18&descColor=ffe1f5" width="100%"/>
 
-<!-- Typing animation — pink accent -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF0090&center=true&vCenter=true&width=600&lines=Student+%26+Aspiring+Developer+%F0%9F%9A%80;Building+cool+stuff+one+line+at+a+time+%F0%9F%92%96;Always+learning%2C+always+growing+%F0%9F%8C%B8;Open+to+collabs+%26+new+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,50:ff4fa8,100:ffb6df&height=200&section=header&text=Hey,%20I'm%20Lini!%20🌸&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Making%20cute%20websites%20and%20questionable%20side%20projects&descAlignY=55&descSize=18&descColor=ffeaf7" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress+🌷;Building+cute+things+for+the+web+✨;Professional+starter+of+random+projects+💖;Learning+something+new+every+day+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social / profile badges -->
-[![GitHub followers](https://img.shields.io/github/followers/aalinchen?style=for-the-badge&logo=github&color=ff0090&labelColor=2d0018)](https://github.com/aalinchen)
-[![Profile views](https://komarev.com/ghpvc/?username=aalinchen&style=for-the-badge&color=ff2fa3&label=PROFILE+VIEWS)](https://github.com/aalinchen)
+[![GitHub followers](https://img.shields.io/github/followers/aalinchen?style=for-the-badge&logo=github&color=ff1493&labelColor=2d0018)](https://github.com/aalinchen)
+[![Profile views](https://komarev.com/ghpvc/?username=aalinchen&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS)](https://github.com/aalinchen)
 
 </div>
 
 ---
 
-## 🙋 About Me
+# 🌸 About Me
 
-```python
-class Lini:
-    role        = "Student & Aspiring Developer"
-    learning    = ["Algorithms", "System Design", "Open Source"]
-    goals       = ["Build something impactful", "Contribute to open source"]
-    hobbies     = ["Coding", "Problem Solving", "Exploring new tech"]
+```javascript
+const lini = {
+  pronouns: "she/her",
+  role: "Student",
+  interests: [
+    "🌐 Web Development",
+    "💖 UI Design",
+    "🎀 Cute Websites",
+    "🧩 Silly Side Projects"
+  ],
+
+  currentlyDoing: [
+    "Learning modern web development",
+    "Experimenting with random ideas",
+    "Making projects just because they're fun"
+  ],
+
+  funFact: "If I think 'this would be funny,' there's a good chance I'll build it."
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" style="padding: 16px;">
-      <code>Languages</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark&perline=3" />
-    </td>
-    <td align="center" style="padding: 16px;">
-      <code>Front-end</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
-    </td>
-    <td align="center" style="padding: 16px;">
-      <code>Tools</code><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 Data structures & algorithms
-- ⚙️ Building real-world projects
-- 🌐 Web development fundamentals
-- 🤝 How to collaborate on open source
-
----
-
-## 🤝 Let's Connect
+# 💻 Tech Stack
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-aalinchen-ff0090?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/aalinchen)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark" />
 
 </div>
 
 ---
 
+# 🌷 What I'm Into
+
+- 🌐 Building websites that look nice *and* work well
+- 🎨 Playing with layouts, animations, and UI ideas
+- 🧸 Creating random projects that absolutely didn't need to exist
+- 🚀 Learning new technologies by actually building things
+- ☕ Turning "this might be cool" into another GitHub repository
+
+---
+
+# 🎀 Current Goals
+
+- Build more polished web apps
+- Learn React & modern frontend tools
+- Contribute to open source
+- Finish more projects than I start *(hopefully)*
+
+---
+
+# 🌸 Favorite Quote
+
+> "Learning by building beats learning by reading."
+
+---
+
+# 🤍 Find Me
+
 <div align="center">
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fd6,50:ff2fa3,100:ff007f&height=100&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-aalinchen-ff1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aalinchen)
 
-*"The best way to learn is to build."* 💗
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6df,50:ff4fa8,100:ff007f&height=100&section=footer" width="100%"/>
+
+✨ Thanks for stopping by! ✨
 
 </div>
